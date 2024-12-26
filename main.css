@@ -3,3 +3,12 @@
 body {
     font-family: roboto, serif, cursive;
 }
+
+ul, li, a {
+    text-decoration: none;    
+    list-style: none;
+}
+
+.header {
+    display: flex;
+}
