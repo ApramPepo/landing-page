@@ -12,8 +12,8 @@ ul, li, a {
 .header {
     display: flex;
     background-color: #1f2937;
-    justify-content: space-between;
-    padding: 16px;
+    justify-content: space-around;
+    padding: 18px;
 }
 
 .header h1 {
@@ -26,6 +26,19 @@ ul, li, a {
     font-size: 18px;
 }
 
-.right {
+li {
     display: inline;
+    margin-right: 16px;
+}
+
+.right {
+    padding-top: 5px;
+}
+
+.main {
+    display: flex;
+}
+
+.one {
+    background-color: #1f2937;
 }
