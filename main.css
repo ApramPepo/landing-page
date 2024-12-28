@@ -134,3 +134,42 @@ padding-bottom: 32px;
     font-weight: 600;
     font-size: 20px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2%;
+    font-size: x-large;
+    font-weight: 700;
+    font-style: italic;
+    color: rgba(14, 19, 90, 0.514);
+}
+
+.br {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.words {
+    width: 450px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.sign {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: end;
+    padding-right: 81vh;
+    padding-top: 1%;
+}
