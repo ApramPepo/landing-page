@@ -173,3 +173,24 @@ padding-bottom: 32px;
     padding-right: 81vh;
     padding-top: 1%;
 }
+
+.about {
+    color: #20293a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+
+.board {
+    background-color: lightskyblue;
+    padding: 2%;
+    border-radius: 8px;
+}
+
+.names {
+    display: flex;
+    gap: 99px;
+}
+
+
