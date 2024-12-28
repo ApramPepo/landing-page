@@ -193,4 +193,12 @@ padding-bottom: 32px;
     gap: 99px;
 }
 
-
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
