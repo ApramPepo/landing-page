@@ -89,3 +89,48 @@ button {
 button:hover {
     background-color: blueviolet;
 }
+
+.scroll {
+background-color: #f9faf8;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+
+.box h1 {
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sq-one, .sq-two, .sq-three, .sq-four {
+    border: black dotted 4px;
+    gap: 16px;
+    height: 250px;
+    width: 250px;
+    border-radius: 12px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 38px;
+}
+
+.t-one, .t-two, .t-three, .t-four {
+    padding-top: 10px;
+    font-weight: 600;
+    font-size: 20px;
+}
